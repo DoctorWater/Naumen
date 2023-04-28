@@ -1,0 +1,36 @@
+body{
+  background-color: #454d54;
+}
+
+ul#user-list{
+  list-style-type: none;
+}
+
+ul#user-list li{
+  padding-top: 10px;
+}
+
+div.name_input{
+  margin-left: 20px;
+  color: white;
+}
+
+div.name_input p{
+  margin-top: 10px;
+}
+
+div.name_input label{
+  width: 100%;
+}
+
+div.name_input button{
+  width: 15%;
+  height: 20px;
+  border-radius: 0.25rem;
+  font-size: x-small;
+  color: white;
+  background-color: #17a2b8;
+  border: 1px solid transparent;
+}
+
+
